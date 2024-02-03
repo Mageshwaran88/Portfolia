@@ -6,7 +6,7 @@
     background-color: #0b021b;
 }
 .homeimg{
-    width: 450px;
+    width: 425px;
     height: 525px;
 }
 .leftcontain{
@@ -15,15 +15,15 @@
     flex-wrap: wrap;
 }
 .headone{
-    font-size: 60px;
+    font-size: 50px;
     color: #c770f0;
 }
 .headtwo{
-    font-size: 40px;
+    font-size: 35px;
     padding: 25px 0px;
     color: lightgreen;
 }
 .headthree{
-    font-size: 22px;
+    font-size: 20px;
     color: white;
 }

@@ -3,18 +3,18 @@
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    height: 85vh;
+    height: 125vh;
     background-color: #0b021b;
 }
 .introcontain{
     width: 70%;
 }
 .introhead{
-    font-size: 40px;
+    font-size: 35px;
     color: lightgreen;
 }
 .aboutpara{
-    font-size: 25px;
+    font-size: 22px;
     padding: 25px 0px;
     color: white;
 }
