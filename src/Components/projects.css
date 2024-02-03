@@ -1,0 +1,49 @@
+.projectpage{
+    background-color: #0b021b;
+}
+.projhead{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 100px;
+    font-size: 25px;
+    color: #c770f0;
+}
+.projcontain{
+    height: 70vh;
+    background-color: #0b021b;
+}
+.projimgcontain{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: #0b021b;
+}
+.projimages{
+    margin: 25px 50px;
+    border-radius: 5px;
+    background-color: white;
+}
+.projimg{
+    width: 300px;
+    padding: 10px 40px;
+}
+a{
+    text-decoration: none;
+}
+.projname{
+    color: #c770f0;
+    text-align: center;
+    padding: 5px 0px;
+}
+.icons{
+    font-size: 2em;
+    padding: 10px 5px;
+    margin-left: 100px;
+}
+.icons1{
+    font-size: 2em;
+    padding: 10px 5px;
+}

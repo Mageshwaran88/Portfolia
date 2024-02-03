@@ -1,0 +1,39 @@
+.firstcontain{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 100px;
+    background-color: #0b021b;
+}
+.headskill{
+    font-size: 50px;
+    color: #c770f0;
+}
+.secondcontain{
+    height: 70vh;
+    background-color: #0b021b;
+}
+.skillcontain{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: #0b021b;
+}
+.iconcontain{
+    margin-top: 40px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: white;
+}
+.iconcontain:hover{
+    box-shadow: 1px 1px 15px #c770f0;
+}
+.iconhead{
+    text-align: center;
+    color: darkcyan;
+}
+#scriptimg{
+    width: 210px;
+}

@@ -1,0 +1,29 @@
+.homepage{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: #0b021b;
+}
+.homeimg{
+    width: 450px;
+    height: 525px;
+}
+.leftcontain{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.headone{
+    font-size: 60px;
+    color: #c770f0;
+}
+.headtwo{
+    font-size: 40px;
+    padding: 25px 0px;
+    color: lightgreen;
+}
+.headthree{
+    font-size: 22px;
+    color: white;
+}
