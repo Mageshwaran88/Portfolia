@@ -1,8 +1,8 @@
 import React, { useEffect } from "react";
 import "./projects.css";
 import todolist from "../assets/66b82aab-e239-400f-af41-f4878bcd9f0e.png";
-import shopping from "../assets/2a72edac-297a-4ce7-a131-590d4e9ccf84.png";
-import portpolia from "../assets/e2d1ba9c-aa38-49a1-96b3-07f55bd6d333.png";
+import shopping from "../assets/5cef3885-23b3-43d5-8492-db9237569e5f.png";
+import portpolia from "../assets/5cef3885-23b3-43d5-8492-db9237569e5f.png";
 import Aos from "aos";
 import "aos/dist/aos.css"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
