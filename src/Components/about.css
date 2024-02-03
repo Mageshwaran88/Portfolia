@@ -3,11 +3,11 @@
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    height: 125vh;
+    height: 100vh;
     background-color: #0b021b;
 }
 .introcontain{
-    width: 70%;
+    width: auto;
 }
 .introhead{
     font-size: 35px;
