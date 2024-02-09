@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import "./projects.css";
 import todolist from "../assets/66b82aab-e239-400f-af41-f4878bcd9f0e.png";
-import shopping from "../assets/5cef3885-23b3-43d5-8492-db9237569e5f.png";
+import shopping from "../assets/image.png";
 import portpolia from "../assets/5cef3885-23b3-43d5-8492-db9237569e5f.png";
 import Aos from "aos";
 import "aos/dist/aos.css"
