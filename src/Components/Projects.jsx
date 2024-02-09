@@ -26,13 +26,13 @@ export const Projects = () => {
             <a className="icons1" href="linkedin.com/in/mageshwaran-m-2a584b281"><FontAwesomeIcon icon={faLinkedin}/></a>
           </div>
           <div className="projimages" data-aos='flip-right'>
-            <img className="projimg" src={shopping} />
+            <a href="https://shoppingwebsite-eta.vercel.app/"><img className="projimg" src={shopping} /></a>
             <h1 className="projname">Shopping Website</h1>
             <a className="icons " href="https://github.com/Mageshwaran88"><FontAwesomeIcon icon={faGithub}/></a>
             <a className="icons1" href="linkedin.com/in/mageshwaran-m-2a584b281"><FontAwesomeIcon icon={faLinkedin}/></a>
           </div>
           <div className="projimages" data-aos='flip-right'>
-            <img className="projimg" src={portpolia} />
+            <a href="https://portfolia-six.vercel.app/"><img className="projimg" src={portpolia} /></a>
             <h1 className="projname">Portfolia</h1>
             <a className="icons " href="https://github.com/Mageshwaran88"><FontAwesomeIcon icon={faGithub}/></a>
             <a className="icons1" href="linkedin.com/in/mageshwaran-m-2a584b281"><FontAwesomeIcon icon={faLinkedin}/></a>
